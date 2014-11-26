@@ -26,3 +26,13 @@ body {
 	outline: 0 none;
 	cursor: pointer;
 }
+
+.audio-player .waveform {
+	width: 100%;
+	height: 40px;
+	background: #555;
+}
+
+.audio-player span {
+	color: #fff;
+}
